@@ -1,0 +1,24 @@
+.header-form {
+  display: flex;
+  align-items: center;
+  max-width: 256px;
+}
+.header-input {
+  background: #F4F4F4;
+border-radius: 3px;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: #474747;
+border: none;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 14px;
+}
+.header-btn {
+  background: #FFBA9D;
+border-radius: 3px;
+border: none;
+padding: 10px;
+}

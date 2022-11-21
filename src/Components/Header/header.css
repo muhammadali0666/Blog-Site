@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  align-items: center;
+  margin-top: 26px;
+}
+.header-item {
+  font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-transform: uppercase;
+color: #9A9A9A;
+margin-left: 30px;
+padding: 0;
+}
+.header-item:hover{
+  color: #3D3D3D;
+  border-bottom: 1px solid #3D3D3D;
+}
+.header-list {
+  list-style-type: none;
+  margin-bottom: 0;
+  padding: 0;
+}
